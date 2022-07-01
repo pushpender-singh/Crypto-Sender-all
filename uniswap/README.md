@@ -1,9 +1,8 @@
-# Sanity Clean Content Studio
-
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
-
-Now you can do the following things:
-
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+👉 Building a Web 3.0 Application with Next JS
+👉 Build your own smart contract using Solidity
+👉  Styling your app using Tailwind CSS
+👉  Adding Web 3.0 authentication using MetaMask
+👉  Storing data and information about each transaction in Sanity.io 
+👉  Using GROQ to retrieve data from Sanity Studio and display it in your Web 3.0 App
+👉  Creating a send and receive functionality for your tokens on the blockchain with Solidity
+👉  Deploy and host the app on Vercel 
